@@ -1,7 +1,11 @@
 # AutoHire0.0
 An intelligent ATS (Applicant Tracking System) that analyzes resumes against job descriptions using Groq's LLaMA language model. This project automates resume screening, shortlisting candidates based on skills and relevance, and sends interview emails to top applicants.
 
-🚀 Features
+
+link for accesing the collab
+https://colab.research.google.com/drive/17I4tf99JJGzroVwOB2egWDg_4Mu5GhMP?usp=sharing
+
+🚀 <b>Features</b>
 📄 Upload and parse resumes (PDF)
 
 🧾 Extract job descriptions from CSV
