@@ -99,6 +99,5 @@ Multi-role support and filtering options
 Dashboard to monitor applicant pipeline
 
 👨‍💻 Author
-Your Name
+nagaraj p
 BE CSE, RNSIT | Samsung Innovation Campus Trainee
-LinkedIn | Email
